@@ -1,0 +1,100 @@
+,V
+ l1 = tf.add(tf.matmul(data, hidden_1_layer['weights']), hidden_1_layer['biases'])    l1 = tf.nn.relu(l1),v
+    hidden_1_layer = {                        'weights': tf.Variable(tf.random_normal([784, n_nodes_hl1])),                        'biases': tf.Variable(tf.random_normal([n_nodes_hl1]))                     } ,v
+                        'biases': tf.Variable(tf.random_normal([n_nodes_hl1])),v
+                        'weights': tf.Variable(tf.random_normal([784, n_nodes_hl1])),,v
+    hidden_1_layer = {,v
+    hidden_1_layer = {                        'weights': tf.Variable(tf.random_normal([784, n_nodes_hl1])),                        'biases': tf.Variable(tf.random_normal([n_nodes_hl1])),V
+m,v
+lauxlib.h: No such file or directory,v
+def numIslands(self, grid):        """        :type grid: List[List[str]]        :rtype: int        """        if len(grid) == 0 or len(grid[0]) == 0:            return 0        cnt = 0        queue = deque()                for i in range(len(grid)):            for j in range(len(grid[0])):                if (grid[i][j] == '1'):                    cnt += 1                    queue.appendleft((i, j))                                        self.check_surrounding(grid, queue, i, j)                            return cnt    def check_surrounding(self, grid, queue, i, j):        while len(queue) != 0:            i, j = queue.pop()            grid[i][j] = '0'            if i > 0 and grid[i-1][j] == '1':                queue.appendleft((i - 1, j))                grid[i-1][j] = '0'              if i < len(grid)-1 and grid[i+1][j] == '1':                queue.appendleft((i + 1, j))                grid[i+1][j] = '0'            if j > 0 and grid[i][j-1] == '1':                queue.appendleft((i, j - 1))                grid[i][j-1] = '0'            if j < len(grid[0])-1 and grid[i][j+1] == '1':                queue.appendleft((i, j + 1))                grid[i][j+1] = '0',v
+grid[i][j] = '0',v
+ OSU2016B,v
+r,v
+print("aaa"),V
+pyImageSearch,v
+matplotlib.use('TkAgg'),v
+on: '-,v
+beach.png,v
+export DYLD_LIBRARY_PATH=/Developer/NVIDIA/CUDA-8.0/lib:/Developer/cuda/lib:usr/local/cuda/lib:$DYLD_LIBRARY_PATH,V
+tance 0x7f808dccbf9,v
+code,v
+www.linkedin.com/in/encorechow,v
+dylib,v
+exit(0),V
+ Failed building.,v
+loaded,v
+DYLD_LIBRARY_PATH,v
+segmentation fault,v
+    1911 segmentation fault  python3,v
+\vspace{2pt}\cventry{Jan. 2016 - Mar. 2016}{Oregon State University, Deep Learning Final Project }{CNN Deconvolution Boundary Detection}{}{}{\myhead Applied deep neural network on BSDS500 dataset to perform edge and boundary detection of images based on Caffe framework. \\\myhead Trained a CNN(convolutional neural network) model from scratch and evaluated on BSDS500 dataset for learning the weights. \\\myhead Reconstructed the boundary image by deconvolving and un-pooling learned feature from CNN model.},v
+Reason: image not found,v
+ Output installed packages in requirements format.  list                        List installed packages.,v
+python manage.py runserver,v
+git update-ref -d HEAD,v
+EADME.t,v
+himawari,v
+  Use --trace for backtrace.,v
+npm install node-sass,v
+print first,V
+[10, 15, 25, 50, 100, 250],v
+@app.route("/hello"),V
+TinyP2P,v
+暮光幼龙,v
+nal,v
+ Address already in use,v
+    if not math.isnan(float(data_dict[k]['exercised_stock_options'])):        res.append(data_dict[k]['exercised_stock_options']),V
+ImportError: No module named Flask,v
+eBay/EMAIL message,v
+Add the specified directory to the search path for include files,v
+ec2-54-175-82-43.compute-1.amazonaws.com,v
+{r, engine='bash', count_lines},v
+ mask = np.zeros(img.shape[:2],np.uint8),v
+],v
+3285,v
+#### 1.4 ,v
+encorechow.github.io,v
+PPeLE: a Photo-Processing e-Learning Environmentbased on HTML5,v
+Lorem ipsum dolor sit amet, consectetur adipisc,v
+KT,v
+docker run opencv-docker,v
+PS1='[\u@\h \W$(__docker_machine_ps1)]\$ ',v
+sudo ln /dev/null /dev/raw1394,v
+Some index files failed to download. They have been ignored, or old ones used instead.,v
+ricted Sour,v
+19250000,v
+exercised_stock_options,v
+enron_data['COLWELL WESLEY']['from_messages'],v
+from_this_person_to_poi,v
+    print(A),V
+from_messages,v
+Wesley Colwell,v
+total_stock_value,v
+James Prentice,v
+https://github.com/udacity/ud120-projects.git,v
+cri78479kd,v
+ubcommand `ipython notebook` is deprecated and will be removed in future versio,v
+https://github.com/udacity/machine-learning.git,v
+17:01 bsds500_10_18_iter_300.solverstate,v
+http://caffe.berkeleyvision.org/tutorial/,v
+Find kth smallest elements in two sorted array,v
+source: "../HED-BSDS/train_pair.lst",v
+    print(i-1, j-1),V
+Find Kth smallest element in two sorted arrays,v
+/scratch2/zhouzh/edges,v
+/scratch2/zhouzh/caffe/BSDS500,v
+/scratch2/zhouzh,v
+http://127.0.0.1:4000/,v
+/Applications/Atom.app/Contents/Resources/app.asar/src/display-buffer',v
+C50132161,v
+return isLeft && isRight && (root.val <= root.left.val);,v
+http://classes.engr.oregonstate.edu/eecs/fall2016/cs519-005/hw4/hw4.txt,v
+    #path, depth = _longest_track_path(tree)    #print(path),V
+ Q: What is your complexity? Write down the detailed analysis in report.txt.,v
+   Q: What is the complexity? Write down the detailed analysis in report.txt.,v
+ Q: What are the time complexities of these algorithms? ,v
+ jason69118@gmail.com,V
+earphone,v
+x,v
+4, [10, 2, 9, 3, 7, 8, 11, 5, 7],v
+3, xrange(1000000, 0, -1),v

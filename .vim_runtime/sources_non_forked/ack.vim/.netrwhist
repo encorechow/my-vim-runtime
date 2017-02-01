@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/Users/zhengzhou/.vim_runtime'
+let g:netrw_dirhist_2='/Users/zhengzhou/Documents/OSU/2015WinterTerm/Software Engineering/project/algorithms'
+let g:netrw_dirhist_3='/Users/zhengzhou/.ssh'
+let g:netrw_dirhist_4='/Users/zhengzhou/Documents/OSU/2015WinterTerm/Software Engineering/project'
+let g:netrw_dirhist_5='/Users/zhengzhou/Documents/OSU/2015WinterTerm/Software Engineering/cs562w16/projects/zhouzh/project/coverage'
+let g:netrw_dirhist_6='/Users/zhengzhou/Developing/LeetCodePractice'
+let g:netrw_dirhist_7='/Users/zhengzhou/Documents/OSU/2015SpringTerm/CS569/cs569sp16/projects/alghamha'
+let g:netrw_dirhist_8='/Users/zhengzhou/.oh-my-zsh'
+let g:netrw_dirhist_9='/Users/zhengzhou/Developing/bin'
