@@ -31,13 +31,13 @@ set guioptions-=R
 set guioptions-=l
 set guioptions-=L
 
-" Colorscheme
+"Colorscheme
 if has("gui_running")
     set background=dark
-    colorscheme peaksea 
+    colorscheme desert 
 else
-    colorscheme peaksea
-    let g:colors_name="peaksea"
+    colorscheme desert
+    let g:colors_name="desert"
 endif
 
 
